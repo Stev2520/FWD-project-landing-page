@@ -12,7 +12,7 @@ This is a web page with as many navigation links as the number of `<section>` el
 
 ## Installation
 
-Do one of the following:git a
+Do one of the following:
 + Download ZIP file containing the ptoject and unzip it
 + clone this repository
 
