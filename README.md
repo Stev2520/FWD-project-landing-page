@@ -11,7 +11,7 @@
 This is a web page with as many navigation links as the number of `<section>` elements in the `<main>` element in `index.html` and indecation which section is being shown.
 
 ## Installation
-Do one of the following:
+Do one of the following
     + Download ZIP file containing the ptoject and unzip it
     + clone this repository
 
