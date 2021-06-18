@@ -3,11 +3,18 @@
 ## Table of Contents
 
 * [Description](#description)
-
+* [Installation](#installation)
+* [Sections](#Sections)
 
 ## Description
 
-This is a web page with as many  navigation links as the number of `<section>` elements in the `<main>` element in `index.html`
+This is a web page with as many navigation links as the number of `<section>` elements in the `<main>` element in `index.html` and indecation which section is being shown.
 
+## Installation
+Do one of the following:
+    - Download ZIP file containing the ptoject and unzip it
+    - clone this repository
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Sections
+Sections must be added in the following format
+    <section id="<section-id>" data-nav="<section-name-in-navbar>">
